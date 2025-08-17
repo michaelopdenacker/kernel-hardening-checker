@@ -20,8 +20,7 @@ authors = [
 maintainers = [
   {name = "Alexander Popov", email = "alex.popov@linux.com"}
 ]
-license = "GPL-3.0-only"
-license-files = ["LICENSE.txt"]
+license = { text = "GPL-3.0-only" }
 classifiers = [
     "Development Status :: 5 - Production/Stable",
     "Topic :: Security",
